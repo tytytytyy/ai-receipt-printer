@@ -75,4 +75,4 @@ This project makes that visible again, one receipt at a time.
 ════════════════════════════════
 
 
-![AI Receipt Demo](https://github.com/tytytytyy/ai-receipt-printer/blob/main/ai-printer-demo.jpg)
+![AI Receipt Demo](https://raw.githubusercontent.com/tytytytyy/ai-receipt-printer/main/ai-printer-demo.jpg)
