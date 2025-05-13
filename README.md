@@ -36,13 +36,14 @@ This project makes that visible again, one receipt at a time.
 
 ```text
 ════════════════════════════════
-           ☁️ AI RECEIPT ☁️
+            ☁️ AI RECEIPT ☁️
 ════════════════════════════════
 
  DATE:        2025-04-28
  TIME:        12:03 PM
 ----------------------------------
  TRANSACTION: 1x ChatGPT Request
+
 ----------------------------------
  RESOURCE CONSUMPTION
 ----------------------------------
@@ -51,21 +52,24 @@ This project makes that visible again, one receipt at a time.
  WATER USED:          500 ml
  SERVER TIME:         0.1 s
  LAND USE:            ~0.6 m²
+
 ----------------------------------
  INVISIBLE LABOR
 ----------------------------------
- • Rare Earth Miners (DR Congo)
- • Assembly Workers (Foxconn)
+ • Rare Earth Miners (DR Congo, Bolivia)
+ • Assembly Workers (Foxconn, Pegatron)
  • Data Labelers (Global South)
- • Content Moderators (Trauma)
+ • Content Moderators (Psychological Trauma)
  • Scraped Training Data (Unpaid)
- • Gig Developers (Precarity)
+ • Gig Developers (Precarious Contracts)
+
 ----------------------------------
  ECONOMIC PRICE:       $0.00
- TRUE COST:   Externalized & Obscured
+ TRUE COST:     Externalized & Obscured
 ----------------------------------
 
   “This output was built on land,
    labor, and lives you were never
    meant to see.”
+
 ════════════════════════════════
