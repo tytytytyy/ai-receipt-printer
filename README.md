@@ -75,4 +75,4 @@ This project makes that visible again, one receipt at a time.
 ════════════════════════════════
 
 
-![AI Receipt Demo](./ai-receipt-demo.jpg)
+![AI Receipt Demo](/ai-receipt-demo.jpg)
